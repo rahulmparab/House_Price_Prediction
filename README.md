@@ -1,7 +1,7 @@
 # Project 2 - Ames Housing Data and Kaggle Challenge : submission by Rahul Parab
 
 **Notes**
-In this project, I created a Linear Regression model using Ames Housing Dataset. The main ojective of this project is to predict the price of a house at sale. 
+In this project, I created a Linear Regression model using Ames Housing Dataset. The main obective of this project is to predict the price of a house at sale. 
  
 ## The Modeling Process
 
